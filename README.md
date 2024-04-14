@@ -76,6 +76,7 @@ nhme, dha, atat, stachyose, atatcgcg, buckyball, nanotube.
 ### CMU motion capture
 
 #### Data Preparation
+The raw data were obtained via [CMU Motion Capture Database](http://mocap.cs.cmu.edu/search.php?subjectnumber=35). The preprocessed dataset as well as the splits are provided in spatial_graph/motion folder.
 
 #### Reproducing the results in Table 4
 
