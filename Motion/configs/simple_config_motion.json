@@ -1,0 +1,19 @@
+{
+        "exp_name": "motion_exp",
+        "batch_size": 100,
+        "epochs": 3000,
+        "no_cuda": false,
+        "seed": 1,
+        "lr": 0.001,
+        "nf": 64,
+        "model": "segno",
+        "attention": 0,
+        "n_layers": 6,
+        "max_training_samples": 200,
+        "data_dir": "spatial_graph/motion",
+        "norm_diff": false,
+        "learnable": false,
+        "weight_decay": 1e-10,
+        "tanh": false,
+        "delta_frame": 30
+}
