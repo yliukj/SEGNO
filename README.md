@@ -62,6 +62,7 @@ python N-body/main.py --epochs=500 --max_samples=3000 --layers=8 --hidden_featur
 ### MD22
 
 #### Data Preparation
+The MD22 dataset can be downloaded from [MD22](http://www.sgdml.org/).
 
 #### Reproducing the results in Table 3
 
