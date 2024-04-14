@@ -106,7 +106,3 @@ We use the code from the following repository:
 * [GMN](https://github.com/hanjq17/GMN)
 
 
-## Disclaimer
-
-This is not an officially supported Tencent product.
-
