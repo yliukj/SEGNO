@@ -8,7 +8,6 @@ This is the official Pytorch implementation of the paper:  SEGNO: Generalizing E
 ## Requirement
 
 * Python 3.8.12
-<<<<<<< master-roy 040b66e0fc4010a1398c4597f554e616cd585895
 * For the other packages, please refer to the `environment.yml`.
   You can just execute following command to create the conda environment.
 
