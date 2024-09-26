@@ -1,7 +1,7 @@
 # SEGNO: Generalizing Equivariant Graph Neural Networks with Physical Inductive Biases
 
 This is the official Pytorch implementation of the paper:  SEGNO: Generalizing Equivariant Graph Neural Networks with Physical Inductive Biases in ICLR 2024.
-[**[OpenReview]**](https://openreview.net/forum?id=Hkx1qkrKPr) [**[Paper]**](https://openreview.net/pdf?id=Hkx1qkrKPr) [**[Poster]**](assets/poster.pdf)
+[**[OpenReview]**](https://openreview.net/forum?id=Hkx1qkrKPr) [**[Paper]**](https://openreview.net/pdf?id=3oTPsORaDH) [**[Poster]**](assets/poster.pdf)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hanjq17/GMN/blob/main/LICENSE)
 
